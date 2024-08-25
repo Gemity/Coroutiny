@@ -5,7 +5,6 @@
 	"description": "",
 	"unity": "2022.3",
 	"dependencies": {
-    	    "com.gemity.common": "1.0.0"
  	},
 	"author": {
 	  "name": "Quy77771",
