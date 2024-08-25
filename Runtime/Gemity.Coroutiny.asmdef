@@ -1,0 +1,16 @@
+{
+    "name": "Gemity.Coroutiny",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ba9dbad7a0796344bad3067737f872f1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
